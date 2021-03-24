@@ -1,0 +1,15 @@
+*
+!*/
+
+!conf.d/**
+!cloudflare.conf
+!proxy.conf
+!nginx.conf
+
+# include markdowns
+!LICENSE
+!README.md
+
+# include git important files
+!.gitignore
+!.github/**
