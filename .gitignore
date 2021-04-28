@@ -5,6 +5,7 @@
 !cloudflare.conf
 !proxy.conf
 !nginx.conf
+!security-headers-base.conf
 
 # include markdowns
 !LICENSE
